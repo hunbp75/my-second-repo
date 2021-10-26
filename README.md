@@ -1,1 +1,1 @@
-# my-second-repo
+Ez a második Repo-m.
